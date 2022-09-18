@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
 }
 
 .header {
@@ -46,10 +47,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -86,7 +83,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Combined styles forthe "benefit" margins */
+/* Combined styles for the benefit class margins */
 .benefit-lead, .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
@@ -100,7 +97,7 @@ p {
     text-align: center;
 }
 
-/* Combined the "benefit" img styles */
+/* Combined the benefit class img styles */
 .benefit-lead img, .benefit-brand img,
 .benefit-cost img {
     display: block;
